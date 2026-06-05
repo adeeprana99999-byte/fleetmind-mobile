@@ -1,11 +1,10 @@
 {
-  "name": "FleetMind",
+  "name": "FleetMind Mobile",
   "short_name": "FleetMind",
-  "start_url": "/",
+  "start_url": "/login",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
-  "description": "Fleet management dashboard for vehicles, drivers, income, expenses, and receipts.",
   "icons": [
     {
       "src": "/icons/icon-192.png",
